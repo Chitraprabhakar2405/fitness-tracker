@@ -9,13 +9,13 @@ Fitness Tracker is a Python application that encourages users to store their wor
 - It has a clear, user-friendly menu interface for smooth navigation.
 
 ## Technologies/Tools Used
-- Python 3.13.5 (core language)
+- Python 3.12.0 (core language)
 - Standard Library (no additional dependencies)
 - Terminal or Command Prompt for interaction of user
 - Git for version control
 
 ## Steps to Install & Run
-1. Make sure Python 3.15.3 (or latest version of python) is installed on your computer.
+1. Make sure Python 3.12.0 (or latest version of python) is installed on your computer.
 2. Download or copy this repository to your local machine.
 3. Open a terminal or command prompt (as per operating system being used) and go to the project directory.
 4. Run the main script with: python fitness_tracker.py
